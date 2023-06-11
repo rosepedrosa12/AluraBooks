@@ -4,6 +4,6 @@
     background-image: url(“../img/Menu.svg”);
     display: inline-block;
     }
-
-    background-color: var(--branco);
-}
+    .cabeçalho {
+        background-color: var(--branco);
+        }
