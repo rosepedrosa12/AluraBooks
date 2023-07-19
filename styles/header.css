@@ -28,8 +28,8 @@
     display: none;
     position: absolute;
     top: 100%;
-    }
+}
 
 .container__botao:checked ~ .lista-menu {
-display: block;
+    display: block;
 }
