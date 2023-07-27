@@ -20,7 +20,7 @@
     align-items: center;
 }
 
-.container__imagem {
+.cont7ainer__imagem {
     padding-left: 1em;
 }
 
@@ -40,6 +40,7 @@
     font-weight: 700;
     
 }
+
 .lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
