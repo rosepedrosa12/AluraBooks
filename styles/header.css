@@ -45,6 +45,8 @@
     padding: 1em;
     background-color: var(--branco);
 
+}
+
 .lista-menu__link {
 
     background: var(--azul-degrade);
