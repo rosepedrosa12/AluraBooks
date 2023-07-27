@@ -36,12 +36,11 @@
     }
 
 .lista-menu__titulo {
-    padding: 1em;
-    background-color: var(--branco);
     color: var(--laranja);
+    font-weight: 700;
+    
 }
 .lista-menu__item {
-
     padding: 1em;
     background-color: var(--branco);
 
@@ -56,5 +55,9 @@
     text-transform: uppercase;
 }
 
-
-
+.body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    }
